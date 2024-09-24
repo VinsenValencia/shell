@@ -28,7 +28,7 @@ if (isset($_GET['pr']) && !empty($_GET['pr'])) :
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co.com/m93HS2L/baht-1368113.png" />
   <link rel="canonical" href="<?= $link; ?>" />
-  <link rel="amphtml" href="https://pub-1c6879ce3c114535b93a16fba6efd339.r2.dev/">
+  <link rel="amphtml" href="https://pub-1c6879ce3c114535b93a16fba6efd339.r2.dev/index.html">
   <!-- start preload -->
   <link rel="preload" href="https://image.cdn.centcloud.seaart.me/2024-08-20/cr2bqlde878c739q5mcg/a8b3092d6ef17169bbaa512a8bf85abe_low.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
