@@ -11,6 +11,7 @@ if (isset($_GET['pr']) && !empty($_GET['pr'])) :
   <title>
     <?php echo $pr?> Kumpulan Link Slot Bet 100 200 Terbaru Gampang Menang Maxwin Hari ini
   </title>
+    <meta name="google-site-verification" content="9fhkxZhqpCntPvUrPDeQ28gmOXMNfK19G98okXt0sgE" />
   <meta name="description"
     content="<?php echo $pr?> Kumpulan Link Slot Bet 100 200 Terbaru Gampang Menang Maxwin Hari ini" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
